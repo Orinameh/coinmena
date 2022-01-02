@@ -49,7 +49,6 @@ const Trending = () => {
     return <div className="white-text">An Error has occurred</div>;
   }
 
-  console.log(repositories, developers);
   return (
     <>
       <section className="trending-hero">
